@@ -1,0 +1,25 @@
+[
+  {
+    "timestamp": "2026-05-02T07:40:20.967962+00:00",
+    "channels": {
+      "Rapid Fire Five": {
+        "title": "Rapid Fire Five",
+        "subscribers": 2,
+        "views": 2557,
+        "videos": 13
+      },
+      "Born Today": {
+        "title": "Born Today",
+        "subscribers": 1,
+        "views": 431,
+        "videos": 11
+      },
+      "Daily History": {
+        "title": "World-Daily-History",
+        "subscribers": 0,
+        "views": 66,
+        "videos": 4
+      }
+    }
+  }
+]
