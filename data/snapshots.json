@@ -964,5 +964,28 @@
         "videos": 44
       }
     }
+  },
+  {
+    "timestamp": "2026-06-13T08:49:08.133614+00:00",
+    "channels": {
+      "Rapid Fire Five": {
+        "title": "Rapid Fire Five",
+        "subscribers": 4,
+        "views": 5222,
+        "videos": 55
+      },
+      "Born Today": {
+        "title": "Born Today",
+        "subscribers": 4,
+        "views": 4487,
+        "videos": 52
+      },
+      "Daily History": {
+        "title": "World-Daily-History",
+        "subscribers": 8,
+        "views": 1663,
+        "videos": 45
+      }
+    }
   }
 ]
