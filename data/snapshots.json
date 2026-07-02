@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-05-03T09:57:14.687818+00:00",
-    "channels": {
-      "Rapid Fire Five": {
-        "title": "Rapid Fire Five",
-        "subscribers": 2,
-        "views": 2659,
-        "videos": 14
-      },
-      "Born Today": {
-        "title": "Born Today",
-        "subscribers": 1,
-        "views": 441,
-        "videos": 12
-      },
-      "Daily History": {
-        "title": "World-Daily-History",
-        "subscribers": 0,
-        "views": 91,
-        "videos": 5
-      }
-    }
-  },
-  {
     "timestamp": "2026-05-04T12:11:44.371751+00:00",
     "channels": {
       "Rapid Fire Five": {
@@ -1376,6 +1353,29 @@
         "subscribers": 8,
         "views": 1930,
         "videos": 62
+      }
+    }
+  },
+  {
+    "timestamp": "2026-07-02T08:44:04.722669+00:00",
+    "channels": {
+      "Rapid Fire Five": {
+        "title": "Rapid Fire Five",
+        "subscribers": 6,
+        "views": 7412,
+        "videos": 73
+      },
+      "Born Today": {
+        "title": "Born Today",
+        "subscribers": 5,
+        "views": 4904,
+        "videos": 71
+      },
+      "Daily History": {
+        "title": "World-Daily-History",
+        "subscribers": 8,
+        "views": 1939,
+        "videos": 63
       }
     }
   }
